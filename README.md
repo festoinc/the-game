@@ -24,7 +24,8 @@ Use it to explore the arguments, question the ideas, and discuss how they apply 
 
 ## Chapters
 
-- [Chapter 1. Planning](01_planning.md) — coming soon.
+- [Introduction](introduction.md)
+- [Chapter 1. Planning](01_planning.md) — in progress.
 
 ## License
 
