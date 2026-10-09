@@ -1,5 +1,7 @@
 # The Tools Change. The Game Doesn't.
 
+<img src="assets/book-cover-v2.png" alt="Book cover showing ancient Chinese cavalry marching alongside friendly AI agents" width="480">
+
 **Timeless management principles for an AI age.**
 
 AI is changing how teams work. Does that mean you need to rethink everything you know about leading them? When the tools change this quickly, it can be hard to see which principles still hold.
