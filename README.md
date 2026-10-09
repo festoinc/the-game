@@ -25,3 +25,9 @@ Use it to explore the arguments, question the ideas, and discuss how they apply 
 ## Chapters
 
 - [Chapter 1. Planning](01_planning.md) — coming soon.
+
+## License
+
+© 2026 Anatolii Fesiuk. This book is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE).
+
+You are free to share, adapt, translate, and use it commercially. Credit Anatolii Fesiuk as the original author, link to [this repository](https://github.com/festoinc/the-game) and [the license](https://creativecommons.org/licenses/by/4.0/), and indicate any changes you make.
